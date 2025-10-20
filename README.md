@@ -853,532 +853,608 @@
                     class: "6A",
                     achievement: "Giải Nhất Toán cấp Huyện, Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "PHẠM THỊ PHƯƠNG TRÂM",
                     class: "6A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "BÙI LĂNG NGỌC HÂN",
                     class: "6A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "TRẦN THỊ TƯƠI",
                     class: "6A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "TẠ ANH QUỐC",
                     class: "6A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "BÌNH NGUYỄN KHÁNH DUYÊN",
                     class: "6A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "LÊ THỊ THU HUYỀN",
                     class: "6B",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN QUANG SƠN",
                     class: "6C",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN NGỌC KHÁNH",
                     class: "6B",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN THỊ THU THẢO",
                     class: "6B",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "CAO DUY VINH",
                     class: "6C",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "ĐỖ TRỌNG TOÀN",
                     class: "6B",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "PHẠM VŨ HUY",
                     class: "6A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN HUY",
                     class: "6A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN CAO TRUNG TÍN",
                     class: "6C",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN DƯ THƯƠNG",
                     class: "6B",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN TRUNG KIÊN",
                     class: "6B",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "LẠI LÂM MINH ANH",
                     class: "6A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "ĐỖ QUANG PHÁT",
                     class: "6B",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "PHẠM VŨ PHƯỚC",
                     class: "6A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN THANH PHƯƠNG",
                     class: "6A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "PHẠM KHÁNH MINH",
                     class: "6A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "VŨ TUẤN ANH",
                     class: "6A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN CAO KỲ",
                     class: "6B",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "LÊ QUANG PHẠM LUÂN",
                     class: "6B",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "ĐỖ THỊ THU UYÊN",
                     class: "7A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN QUỐC NGHĨA",
                     class: "7A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "TRẦN THIÊN NGÂN",
                     class: "7A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "ĐỖ THỊ HUYỀN TRANG",
                     class: "7A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN ĐỨC DOÃN",
                     class: "7A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN NGỌC NGUYÊN",
                     class: "7A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN NGỌC CAO",
                     class: "7A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "ĐOÀN THỊ NGỌC LAN",
                     class: "7A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "TRẦN HOÀNG HIẾU",
                     class: "7A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "HOÀNG CÔNG SƠN",
                     class: "7B",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN BẢO THIÊN",
                     class: "7B",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "VŨ MINH HIẾU",
                     class: "7B",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN TUẤN ANH",
                     class: "7B",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "TRẦN ĐÀO XUÂN TRỌNG",
                     class: "7B",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN THỊ NHỚ",
                     class: "7B",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "TRƯƠNG ĐÌNH THƯƠNG",
                     class: "7C",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "ĐINH VĂN NGHĨA",
                     class: "7C",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN ANH LINH",
                     class: "7C",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN TRUNG THÔNG",
                     class: "7D",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "VĂN ĐỨC NHUẬN",
                     class: "7D",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "ĐẶNG THẾ SƠN",
                     class: "7D",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN THỊ HẬU",
                     class: "7B",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "BÙI THỊ LỆ TRÂM",
                     class: "8A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "LÊ THỊ THÙY TRANG",
                     class: "8A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "PHẠM THỊ CẨM VÂN",
                     class: "8A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "TRẦN THỊ YẾN HOA",
                     class: "8A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN THỊ PHƯƠNG THẢO",
                     class: "8A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "LÊ THỊ KIM ANH",
                     class: "8A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "HUỲNH NGỌC LAN CHI",
                     class: "8A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "PHẠM QUỲNH HƯƠNG",
                     class: "8A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGÔ THỊ ÁI QUYÊN",
                     class: "8A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "VŨ HỒNG VÂN",
                     class: "8A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "LÊ HOÀNG HUY",
                     class: "8C",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "TRẦN THỊ THU NGỌC",
                     class: "8C",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN HOÀNG CHÂU",
                     class: "9A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện, Giải Ba Tiếng Anh cấp Tỉnh, Huy chương Bạc Tiếng Anh Quốc gia",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "TRẦN ĐÌNH NGUYÊN",
                     class: "9A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện, Huy chương Vàng Tiếng Anh Quốc gia",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "PHẠM THÀNH NGUYÊN",
                     class: "9A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "ĐỖ NGỌC TRANG NHUNG",
                     class: "9A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện, Giải Ba CASSIO cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "LƯƠNG THỊ NGỌC THÚY",
                     class: "9A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN THỊ NGỌC ANH",
                     class: "9A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "HUỲNH TRẦN NGÂN PHƯƠNG",
                     class: "9A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "PHẠM THỊ KIM DUYÊN",
                     class: "9A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN THỊ THANH XUÂN",
                     class: "9A",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "TRẦN MINH SANG",
                     class: "9B",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "LÊ THỊ TRÚC KHƯƠNG",
                     class: "9B",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "ĐÀO HỒNG SƠN",
                     class: "9C",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện, Huy chương Bạc Tiếng Anh Quốc gia",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "HỒ VĂN TÚ",
                     class: "9C",
                     achievement: "Giải Nhất Tiếng Anh cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "TRẦN THỊ HOÀI THƯƠNG",
                     class: "9B",
                     achievement: "Giải Ba Ngữ Văn cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN THỊ THOẠI HẰNG",
                     class: "9C",
                     achievement: "Giải Nhì Hóa Học cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN THỊ THU THẢO",
                     class: "9D",
                     achievement: "Giải Nhì Sinh Học cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "PHAN THỊ ÁNH TUYẾT",
                     class: "9A",
                     achievement: "Giải Ba CASSIO cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 }
             ],
             "2011-2012": [
@@ -1387,203 +1463,232 @@
                     class: "9A",
                     achievement: "Giải Ba Toán cấp Tỉnh",
                     teacher: "ĐỖ VIẾT THÀNH",
-                    score: "8.5"
+                    score: "8.5",
+                    gender: "nữ"
                 },
                 {
                     name: "PHAN THỊ KIM NGÂN",
                     class: "9A",
                     achievement: "Giải Nhất Toán Internet cấp Huyện",
                     teacher: "ĐỖ VIẾT THÀNH",
-                    score: "300"
+                    score: "300",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN VĂN MẠNH",
                     class: "8A",
                     achievement: "Giải Nhất Toán Internet cấp Huyện",
                     teacher: "BÙI NGUYÊN BÌNH",
-                    score: "300"
+                    score: "300",
+                    gender: "nam"
                 },
                 {
                     name: "ĐẶNG THẢO VY",
                     class: "6A",
                     achievement: "Giải Nhất Toán Internet cấp Huyện",
                     teacher: "ĐỖ VIẾT THÀNH",
-                    score: "250"
+                    score: "250",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN NGỌC SƠN",
                     class: "6A",
                     achievement: "Giải Nhất Toán Internet cấp Huyện",
                     teacher: "",
-                    score: "250"
+                    score: "250",
+                    gender: "nam"
                 },
                 {
                     name: "HOÀNG PHI HÙNG",
                     class: "6A",
                     achievement: "Giải Nhất Toán Internet cấp Huyện",
                     teacher: "",
-                    score: "250"
+                    score: "250",
+                    gender: "nam"
                 },
                 {
                     name: "HỒ PHƯƠNG THỦY",
                     class: "6A",
                     achievement: "Giải Nhất Toán Internet cấp Huyện",
                     teacher: "",
-                    score: "250"
+                    score: "250",
+                    gender: "nữ"
                 },
                 {
                     name: "VŨ TIẾN THIỆN QUANG",
                     class: "6A",
                     achievement: "Giải Nhất Toán Internet cấp Huyện",
                     teacher: "",
-                    score: "250"
+                    score: "250",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN PHÚ TRUNG ANH",
                     class: "6B",
                     achievement: "Giải Nhất Toán Internet cấp Huyện",
                     teacher: "",
-                    score: "250"
+                    score: "250",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN THỊ THU THẢO",
                     class: "6B",
                     achievement: "Giải Nhất Toán Internet cấp Huyện",
                     teacher: "",
-                    score: "250"
+                    score: "250",
+                    gender: "nữ"
                 },
                 {
                     name: "TRẦN DUY ANH",
                     class: "6A",
                     achievement: "Giải Nhất Toán Internet cấp Huyện",
                     teacher: "",
-                    score: "250"
+                    score: "250",
+                    gender: "nam"
                 },
                 {
                     name: "TRẦN THỊ THU NGỌC",
                     class: "9C",
                     achievement: "Giải Nhất Tiếng Anh Internet cấp Huyện",
                     teacher: "DƯƠNG KHẮC NGỌC",
-                    score: "300"
+                    score: "300",
+                    gender: "nữ"
                 },
                 {
                     name: "LÊ THỊ THÙY TRANG",
                     class: "9A",
                     achievement: "Giải Nhất Tiếng Anh Internet cấp Huyện",
                     teacher: "",
-                    score: "300"
+                    score: "300",
+                    gender: "nữ"
                 },
                 {
                     name: "HOÀNG THỊ PHƯƠNG THẢO",
                     class: "9A",
                     achievement: "Giải Nhất Tiếng Anh Internet cấp Huyện",
                     teacher: "",
-                    score: "300"
+                    score: "300",
+                    gender: "nữ"
                 },
                 {
                     name: "ĐỖ THỊ HUYỀN TRANG",
                     class: "8A",
                     achievement: "Giải Nhất Tiếng Anh Internet cấp Huyện",
                     teacher: "",
-                    score: "300"
+                    score: "300",
+                    gender: "nữ"
                 },
                 {
                     name: "TRẦN THIÊN NGÂN",
                     class: "8A",
                     achievement: "Giải Nhất Tiếng Anh Internet cấp Huyện",
                     teacher: "",
-                    score: "300"
+                    score: "300",
+                    gender: "nữ"
                 },
                 {
                     name: "ĐỖ THỊ THU UYÊN",
                     class: "8A",
                     achievement: "Giải Nhất Tiếng Anh Internet cấp Huyện",
                     teacher: "",
-                    score: "300"
+                    score: "300",
+                    gender: "nữ"
                 },
                 {
                     name: "TRƯƠNG THỊ HIẾU NHƯ",
                     class: "8A",
                     achievement: "Giải Nhất Tiếng Anh Internet cấp Huyện",
                     teacher: "",
-                    score: "300"
+                    score: "300",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN NGỌC NGUYÊN",
                     class: "8A",
                     achievement: "Giải Nhất Tiếng Anh Internet cấp Huyện",
                     teacher: "",
-                    score: "300"
+                    score: "300",
+                    gender: "nam"
                 },
                 {
                     name: "ĐẶNG THỊ TUYẾT NHUNG",
                     class: "8A",
                     achievement: "Giải Nhất Tiếng Anh Internet cấp Huyện",
                     teacher: "",
-                    score: "300"
+                    score: "300",
+                    gender: "nữ"
                 },
                 {
                     name: "CAO THỊ LỆ HUYỀN",
                     class: "8A",
                     achievement: "Giải Nhất Tiếng Anh Internet cấp Huyện",
                     teacher: "",
-                    score: "300"
+                    score: "300",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN TUẤN ANH",
                     class: "8B",
                     achievement: "Giải Nhất Tiếng Anh Internet cấp Huyện",
                     teacher: "NGUYỄN QUỐC HÒA",
-                    score: "300"
+                    score: "300",
+                    gender: "nam"
                 },
                 {
                     name: "TRẦN ĐÀO XUÂN TRỌNG",
                     class: "8B",
                     achievement: "Giải Nhất Tiếng Anh Internet cấp Huyện",
                     teacher: "",
-                    score: "300"
+                    score: "300",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN BẢO THIÊN",
                     class: "8B",
                     achievement: "Giải Nhất Tiếng Anh Internet cấp Huyện",
                     teacher: "",
-                    score: "300"
+                    score: "300",
+                    gender: "nam"
                 },
                 {
                     name: "PHẠM THỊ PHƯƠNG TRÂM",
                     class: "7A",
                     achievement: "Giải Nhất Tiếng Anh Internet cấp Huyện",
                     teacher: "NGÔ THỊ LIỄU",
-                    score: "300"
+                    score: "300",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN TRUNG KIÊN",
                     class: "7B",
                     achievement: "Giải Nhất Tiếng Anh Internet cấp Huyện",
                     teacher: "",
-                    score: "300"
+                    score: "300",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN THANH PHƯƠNG",
                     class: "7A",
                     achievement: "Giải Nhất Tiếng Anh Internet cấp Huyện",
                     teacher: "",
-                    score: "300"
+                    score: "300",
+                    gender: "nữ"
                 },
                 {
                     name: "ĐÀO THỊ QUỲNH TRANG",
                     class: "7A",
                     achievement: "Giải Nhất Tiếng Anh Internet cấp Huyện",
                     teacher: "",
-                    score: "300"
+                    score: "300",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN THỊ THÙY DƯƠNG",
                     class: "7A",
                     achievement: "Giải Nhất Tiếng Anh Internet cấp Huyện",
                     teacher: "",
-                    score: "300"
+                    score: "300",
+                    gender: "nữ"
                 }
             ],
             "2012-2013": [
@@ -1592,28 +1697,32 @@
                     class: "9A",
                     achievement: "Giải Ba MTCasio cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "ĐỖ THỊ HUYỀN TRANG",
                     class: "9A",
                     achievement: "Giải Nhì MTCasio cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN NGỌC CAO",
                     class: "9A",
                     achievement: "Giải Ba Vật lí cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 },
                 {
                     name: "NGUYỄN THỊ TRÀ MY",
                     class: "9C",
                     achievement: "Giải Ba Địa lí cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 }
             ],
             "2013-2014": [
@@ -1622,14 +1731,16 @@
                     class: "",
                     achievement: "Giải Nhất MTCT CASIO cấp Huyện, Giải Ba MTCT CASIO cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN THỊ PHƯƠNG MAI",
                     class: "",
                     achievement: "Giải Ba Sinh học cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 }
             ],
             "2014-2015": [
@@ -1638,14 +1749,16 @@
                     class: "9A",
                     achievement: "Giải Nhất Sinh học cấp Huyện",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nữ"
                 },
                 {
                     name: "NGUYỄN CỘNG MINH",
                     class: "9A",
                     achievement: "Giải Ba Vật lí cấp Tỉnh",
                     teacher: "",
-                    score: ""
+                    score: "",
+                    gender: "nam"
                 }
             ]
         };
@@ -1672,16 +1785,17 @@
                 const card = document.createElement('div');
                 card.classList.add('student-card');
                 
-                // Tạo hình ảnh ngẫu nhiên dựa trên index
-                const gender = index % 2 === 0 ? 'men' : 'women';
-                const imgIndex = (index % 50) + 1;
+                // Xác định ảnh dựa trên giới tính
+                const imageUrl = student.gender === 'nam' 
+                    ? 'https://i.postimg.cc/2Sns9JkF/Chat-GPT-Image-Oct-20-2025-08-20-11-PM.png'
+                    : 'https://i.postimg.cc/fRYGqFzc/Chat-GPT-Image-Oct-20-2025-08-20-23-PM.png';
                 
                 // Lấy thành tích đầu tiên để hiển thị badge
                 const firstAchievement = student.achievement.split(',')[0];
                 
                 card.innerHTML = `
                     <i class="fas fa-user-graduate student-icon"></i>
-                    <img src="https://randomuser.me/api/portraits/${gender}/${imgIndex}.jpg" alt="${student.name}" class="student-image">
+                    <img src="${imageUrl}" alt="${student.name}" class="student-image">
                     <h3>${student.name}</h3>
                     <p><strong>Lớp:</strong> ${student.class}</p>
                     <div class="achievement-badge">${firstAchievement}</div>
@@ -1746,11 +1860,11 @@
             
             console.log("=== TRANG CHÍNH HỌC SINH XUẤT SẮC ===");
             console.log("Có 5 năm học để lựa chọn:");
-            console.log("- 2023-2024 (Năm học hiện tại)");
-            console.log("- 2022-2023");
-            console.log("- 2021-2022"); 
-            console.log("- 2020-2021");
-            console.log("- 2019-2020");
+            console.log("- 2010-2011");
+            console.log("- 2011-2012");
+            console.log("- 2012-2013"); 
+            console.log("- 2013-2014");
+            console.log("- 2014-2015");
             console.log("Mỗi năm học đều có nút QUAY LẠI TRANG CHÍNH");
         });
     </script>
