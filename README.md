@@ -1801,6 +1801,17 @@
             
             const students = studentsData[year] || [];
             
+            if (students.length === 0) {
+                studentsGrid.innerHTML = `
+                    <div class="no-students-message">
+                        <i class="fas fa-info-circle" style="font-size: 4rem; margin-bottom: 20px; color: #FFD700;"></i>
+                        <h3 style="color: #fff; font-size: 1.8rem;">Chưa có dữ liệu học sinh cho năm học này</h3>
+                        <p style="color: #e0e0ff; font-size: 1.2rem;">Dữ liệu đang được cập nhật...</p>
+                    </div>
+                `;
+                return;
+            }
+            
             students.forEach((student, index) => {
                 const card = document.createElement('div');
                 card.classList.add('student-card');
