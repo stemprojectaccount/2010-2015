@@ -272,30 +272,17 @@
             }
         }
         
-        /* CHỈNH SỬA: Làm chữ "HỌC SINH XUẤT SẮC CÁC NĂM HỌC TRƯỜNG THCS NGUYỄN KHUYẾN - XÃ EA KAR - TỈNH ĐẮK LẮK" đậm và vàng hơn */
+        /* CHỈNH SỬA: Làm chữ "HỌC SINH XUẤT SẮC CÁC NĂM HỌC TRƯỜNG THCS NGUYỄN KHUYẾN - XÃ EA KAR - TỈNH ĐẮK LẮK" màu trắng */
         .subtitle {
-            font-size: 2.2rem; /* Tăng kích thước chữ */
+            font-size: 2.2rem; /* Đảm bảo cùng kích thước */
             margin-bottom: 15px;
             position: relative;
-            color: #FFD700; /* Màu vàng đậm */
-            font-weight: 800; /* Làm đậm hơn */
-            text-shadow: 0 0 10px rgba(255, 215, 0, 0.7), 0 0 20px rgba(255, 215, 0, 0.5); /* Thêm hiệu ứng bóng vàng */
-            background: linear-gradient(45deg, #FFD700, #FFA500, #FFD700); /* Gradient vàng cam */
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
+            color: #FFFFFF; /* Màu trắng */
+            font-weight: 600; /* Giữ nguyên độ đậm */
+            text-shadow: 0 0 10px rgba(255, 255, 255, 0.7), 0 0 20px rgba(255, 255, 255, 0.5); /* Hiệu ứng bóng trắng */
             padding: 5px 0;
-            letter-spacing: 1px; /* Tăng khoảng cách chữ */
-            font-family: 'Playfair Display', serif; /* Dùng font trang trọng hơn */
-            animation: subtitleGlow 4s ease-in-out infinite alternate; /* Thêm hiệu ứng nhấp nháy */
-        }
-        
-        @keyframes subtitleGlow {
-            0% {
-                text-shadow: 0 0 10px rgba(255, 215, 0, 0.7), 0 0 20px rgba(255, 215, 0, 0.5);
-            }
-            100% {
-                text-shadow: 0 0 15px rgba(255, 215, 0, 0.9), 0 0 25px rgba(255, 215, 0, 0.7), 0 0 35px rgba(255, 215, 0, 0.5);
-            }
+            letter-spacing: 1px;
+            font-family: 'Playfair Display', serif;
         }
         
         .header-decoration {
@@ -634,6 +621,7 @@
                 top: auto;
                 left: auto;
                 margin-bottom: 30px;
+                height: 200px; /* Giảm kích thước logo trên tablet */
             }
             
             .glowing-text {
@@ -671,7 +659,12 @@
         
         @media (max-width: 768px) {
             .header-logo {
-                height: 120px;
+                height: 150px; /* Giảm kích thước logo trên mobile */
+                position: relative;
+                top: auto;
+                left: auto;
+                margin: 0 auto 20px;
+                display: block;
             }
             
             .glowing-text {
@@ -723,6 +716,10 @@
         @media (max-width: 576px) {
             .header {
                 padding: 80px 20px 60px;
+            }
+            
+            .header-logo {
+                height: 120px; /* Giảm kích thước logo trên mobile nhỏ */
             }
             
             .glowing-text {
@@ -800,39 +797,39 @@
                 </h2>
                 
                 <div class="large-years">
-                    <!-- Năm học 2010-2011 -->
-                    <div class="large-year" onclick="showStudents('2010-2011')">
+                    <!-- Năm học 2025-2026 -->
+                    <div class="large-year" onclick="showStudents('2025-2026')">
                         <i class="fas fa-star year-icon"></i>
-                        <div class="year-period">2010-2011</div>
+                        <div class="year-period">2025-2026</div>
                     </div>
                     
-                    <!-- Năm học 2011-2012 -->
-                    <div class="large-year" onclick="showStudents('2011-2012')">
+                    <!-- Năm học 2026-2027 -->
+                    <div class="large-year" onclick="showStudents('2026-2027')">
                         <i class="fas fa-trophy year-icon"></i>
-                        <div class="year-period">2011-2012</div>
+                        <div class="year-period">2026-2027</div>
                     </div>
                     
-                    <!-- Năm học 2012-2013 -->
-                    <div class="large-year" onclick="showStudents('2012-2013')">
+                    <!-- Năm học 2027-2028 -->
+                    <div class="large-year" onclick="showStudents('2027-2028')">
                         <i class="fas fa-award year-icon"></i>
-                        <div class="year-period">2012-2013</div>
+                        <div class="year-period">2027-2028</div>
                     </div>
 
-                    <!-- Năm học 2013-2014 -->
-                    <div class="large-year" onclick="showStudents('2013-2014')">
+                    <!-- Năm học 2028-2029 -->
+                    <div class="large-year" onclick="showStudents('2028-2029')">
                         <i class="fas fa-medal year-icon"></i>
-                        <div class="year-period">2013-2014</div>
+                        <div class="year-period">2028-2029</div>
                     </div>
 
-                    <!-- Năm học 2014-2015 -->
-                    <div class="large-year" onclick="showStudents('2014-2015')">
+                    <!-- Năm học 2029-2030 -->
+                    <div class="large-year" onclick="showStudents('2029-2030')">
                         <i class="fas fa-crown year-icon"></i>
-                        <div class="year-period">2014-2015</div>
+                        <div class="year-period">2029-2030</div>
                     </div>
                 </div>
             </div>
             
-           <!-- Students Section (Hidden by default) -->
+ <!-- Students Section (Hidden by default) -->
             <div class="students-section" id="studentsSection">
                 <h2 class="section-title">
                     <i class="fas fa-users"></i>DANH SÁCH HỌC SINH XUẤT SẮC
@@ -848,7 +845,7 @@
                 <div class="back-section">
                     <div class="back-button" onclick="hideStudents()">
                         <i class="fas fa-arrow-left button-icon"></i>
-                        <div class="button-text">QUAY LẠI</div>
+                        <div class="button-text">QUAY LẠI </div>
                     </div>
                 </div>
             </div>
@@ -1783,6 +1780,7 @@
             ]
         };
 
+
         // ===== HÀM HIỂN THỊ DANH SÁCH HỌC SINH =====
         function showStudents(year) {
             // Ẩn phần chọn năm học
@@ -1817,7 +1815,7 @@
                 card.classList.add('student-card');
                 
                 // Xác định ảnh dựa trên giới tính
-                const imageUrl = student.gender === 'nam' 
+                const imageUrl = student.gender === 'male' 
                     ? 'https://i.postimg.cc/2Sns9JkF/Chat-GPT-Image-Oct-20-2025-08-20-11-PM.png'
                     : 'https://i.postimg.cc/fRYGqFzc/Chat-GPT-Image-Oct-20-2025-08-20-23-PM.png';
                 
