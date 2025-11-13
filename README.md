@@ -800,31 +800,31 @@
                     <!-- Năm học 2025-2026 -->
                     <div class="large-year" onclick="showStudents('2025-2026')">
                         <i class="fas fa-star year-icon"></i>
-                        <div class="year-period">2025-2026</div>
+                        <div class="year-period">2010-2011</div>
                     </div>
                     
                     <!-- Năm học 2026-2027 -->
                     <div class="large-year" onclick="showStudents('2026-2027')">
                         <i class="fas fa-trophy year-icon"></i>
-                        <div class="year-period">2026-2027</div>
+                        <div class="year-period">2011-2012div>
                     </div>
                     
                     <!-- Năm học 2027-2028 -->
                     <div class="large-year" onclick="showStudents('2027-2028')">
                         <i class="fas fa-award year-icon"></i>
-                        <div class="year-period">2027-2028</div>
+                        <div class="year-period">2012-2013</div>
                     </div>
 
                     <!-- Năm học 2028-2029 -->
                     <div class="large-year" onclick="showStudents('2028-2029')">
                         <i class="fas fa-medal year-icon"></i>
-                        <div class="year-period">2028-2029</div>
+                        <div class="year-period">2013-2014</div>
                     </div>
 
                     <!-- Năm học 2029-2030 -->
                     <div class="large-year" onclick="showStudents('2029-2030')">
                         <i class="fas fa-crown year-icon"></i>
-                        <div class="year-period">2029-2030</div>
+                        <div class="year-period">2014-2015</div>
                     </div>
                 </div>
             </div>
