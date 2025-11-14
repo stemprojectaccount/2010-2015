@@ -797,39 +797,39 @@
                 </h2>
                 
                 <div class="large-years">
-                    <!-- Năm học 2025-2026 -->
-                    <div class="large-year" onclick="showStudents('2025-2026')">
+                    <!-- Năm học 2010-2011 -->
+                    <div class="large-year" onclick="showStudents('2010-2011')">
                         <i class="fas fa-star year-icon"></i>
                         <div class="year-period">2010-2011</div>
                     </div>
                     
-                    <!-- Năm học 2026-2027 -->
-                    <div class="large-year" onclick="showStudents('2026-2027')">
+                    <!-- Năm học 2011-2012 -->
+                    <div class="large-year" onclick="showStudents('2011-2012')">
                         <i class="fas fa-trophy year-icon"></i>
-                        <div class="year-period">2011-2012div>
+                        <div class="year-period">2011-2012</div>
                     </div>
                     
-                    <!-- Năm học 2027-2028 -->
-                    <div class="large-year" onclick="showStudents('2027-2028')">
+                    <!-- Năm học 2012-2013 -->
+                    <div class="large-year" onclick="showStudents('2012-2013')">
                         <i class="fas fa-award year-icon"></i>
                         <div class="year-period">2012-2013</div>
                     </div>
 
-                    <!-- Năm học 2028-2029 -->
-                    <div class="large-year" onclick="showStudents('2028-2029')">
+                    <!-- Năm học 2013-2014 -->
+                    <div class="large-year" onclick="showStudents('2013-2014')">
                         <i class="fas fa-medal year-icon"></i>
                         <div class="year-period">2013-2014</div>
                     </div>
 
-                    <!-- Năm học 2029-2030 -->
-                    <div class="large-year" onclick="showStudents('2029-2030')">
+                    <!-- Năm học 2014-2015 -->
+                    <div class="large-year" onclick="showStudents('2014-2015')">
                         <i class="fas fa-crown year-icon"></i>
                         <div class="year-period">2014-2015</div>
                     </div>
                 </div>
             </div>
             
- <!-- Students Section (Hidden by default) -->
+            <!-- Students Section (Hidden by default) -->
             <div class="students-section" id="studentsSection">
                 <h2 class="section-title">
                     <i class="fas fa-users"></i>DANH SÁCH HỌC SINH XUẤT SẮC
@@ -854,7 +854,7 @@
             <div class="back-to-board-section">
                 <a href="https://stemprojectaccount.github.io/BANG-VINH-DANH/" class="back-to-board-button">
                     <i class="fas fa-home button-icon"></i>
-                    <div class="button-text">QUAY LẠI  </div>
+                    <div class="button-text">QUAY LẠI TRANG CHÍNH</div>
                 </a>
             </div>
         </div>
